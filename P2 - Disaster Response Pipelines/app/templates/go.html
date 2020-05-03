@@ -1,0 +1,17 @@
+{% extends "master.html" %}
+{% block title %}Results{% endblock %}
+
+{% block content %}
+    <div class="page-header">
+        <h3 class="text-left">Message classification</h3>
+    </div>
+    <ul class="classifications list-group">
+        {% for category, classification in classification_result.items() if classification == 1 %}
+            <li class="list-group-item list-group-item-danger text-center">{{category.replace('_', ' ').title()}}</li>
+        {% endfor %}
+
+        {% for category, classification in classification_result.items() if classification == 0 %}
+            <li class="list-group-item list-group-item-dark text-center inactive">{{category.replace('_', ' ').title()}}</li>
+        {% endfor %}
+    </ul>
+{% endblock %}
