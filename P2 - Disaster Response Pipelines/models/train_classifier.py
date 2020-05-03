@@ -69,13 +69,13 @@ def tokenize(text):
 
 
 def build_model():
-    """Builds a GridSearchCV model.
+    """Builds a RandomizedSearchCV model.
 
     Args:
         None
 
     Returns:
-        cv (scikit-learn GridSearchCV): Grid Search model.
+        cv (scikit-learn RandomizedSearchCV): Grid Search model.
     """
 
     pipeline = Pipeline([
