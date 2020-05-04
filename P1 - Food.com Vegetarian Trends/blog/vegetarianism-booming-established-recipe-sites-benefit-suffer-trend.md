@@ -1,4 +1,4 @@
-_This is a Udacity Data Science Nanodegree project._
+_Udacity Data Science Nanodegree project by [Philip Seifi](https://www.seifi.co/)._
 
 # Vegetarianism is booming. Will established recipe sites benefit or suffer from this trend?
 The interest in vegetarian and vegan food has grown steadily over the past two decades.
