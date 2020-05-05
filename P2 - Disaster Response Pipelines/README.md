@@ -2,7 +2,7 @@ _Udacity Data Science Nanodegree project by [Philip Seifi](https://www.seifi.co/
 
 # Disaster response pipeline
 
-![Project 2: Disaster Response Pipelines](readme/cover-p2.png)
+![Project 2: Disaster Response Pipelines](../readme/cover-p2.png)
 
 Following a disaster, response organizations receive millions of distress messages, both directly, and through news and social media.
 

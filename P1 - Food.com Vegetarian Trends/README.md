@@ -2,7 +2,7 @@ _Udacity Data Science Nanodegree project by [Philip Seifi](https://www.seifi.co/
 
 # Vegetarian trends at food.com
 
-![Project 1: Food.com Vegetarian Trends](readme/cover-p1.png)
+![Project 1: Food.com Vegetarian Trends](../readme/cover-p1.png)
 
 The interest in vegetarian and vegan food has grown steadily over the past two decades.
 
