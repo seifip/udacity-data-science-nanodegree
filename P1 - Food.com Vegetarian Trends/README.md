@@ -1,6 +1,9 @@
 _Udacity Data Science Nanodegree project by [Philip Seifi](https://www.seifi.co/)._
 
 # Vegetarian trends at food.com
+
+![Project 1: Food.com Vegetarian Trends](readme/cover-p1.png)
+
 The interest in vegetarian and vegan food has grown steadily over the past two decades.
 
 The number of searches for 'veganism' in the UK has increased 900% from 2009 to 2019.[1]
