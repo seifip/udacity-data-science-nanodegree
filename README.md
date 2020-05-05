@@ -1,7 +1,7 @@
 
 # Data Science Nanodegree Portfolio
 
-This repository contains my work for Udacity's Data Analyst Nanodegree program, May 2020 cohort.
+This repository contains my work for the Udacity Data Science Nanodegree program, May 2020 cohort.
 
 ## Projects:
 
