@@ -5,14 +5,14 @@ This repository contains my work for Udacity's Data Analyst Nanodegree program, 
 
 ## Projects:
 
-* *Project 1:* [Food.com Vegetarian Trends](P1%20-%20Food.com%20Vegetarian%20Trends)
-* *Project 2:* [Disaster Response Pipelines](P2%20-%20Disaster%20Response%20Pipelines)
-* *Project 3*
-* *Project 4*
-
+### *Project 1:* [Food.com Vegetarian Trends](P1%20-%20Food.com%20Vegetarian%20Trends)
 [![Project 1: Food.com Vegetarian Trends](readme/cover-p1.png)](P1%20-%20Food.com%20Vegetarian%20Trends)
 
+### *Project 2:* [Disaster Response Pipelines](P2%20-%20Disaster%20Response%20Pipelines)
 [![Project 2: Disaster Response Pipelines](readme/cover-p2.png)](P2%20-%20Disaster%20Response%20Pipelines)
+
+### *Project 3*
+### *Project 4*
 
 ## Courses taken:
 * The Data Science Process
