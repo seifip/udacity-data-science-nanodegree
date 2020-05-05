@@ -33,3 +33,6 @@ This repository contains my work for the Udacity Data Science Nanodegree program
 * Collaborative Filtering
 * Content Based Recommendations
 * Matrix Factorization
+
+## Acknowledgements
+Project cover photos by [Brooke Lark](https://unsplash.com/photos/jUPOXXRNdcA), [Joanne Francis](https://unsplash.com/photos/S9NQnIV4zOI).
