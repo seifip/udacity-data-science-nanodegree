@@ -11,8 +11,8 @@ This repository contains my work for the Udacity Data Science Nanodegree program
 ### *Project 2:* [Disaster Response Pipelines](P2%20-%20Disaster%20Response%20Pipelines)
 [![Project 2: Disaster Response Pipelines](readme/cover-p2.png)](P2%20-%20Disaster%20Response%20Pipelines)
 
-### *Project 3:* [Disaster Response Pipelines](P3%20-%20Recommendations with IBM)
-[![Project 3: Recommendations with IBM](readme/cover-p3.png)](P3%20-%20Recommendations with IBM)
+### *Project 3:* [Disaster Response Pipelines](P3%20-%20Recommendations%20with%20IBM)
+[![Project 3: Recommendations with IBM](readme/cover-p3.png)](P3%20-%20Recommendations%20with%20IBM)
 
 ### *Capstone:* [Disaster Response Pipelines](https://github.com/seifip/starbucks-customer-segmentation)
 [![Capstone: Starbucks offers](readme/cover-capstone.png)](https://github.com/seifip/starbucks-customer-segmentation)
